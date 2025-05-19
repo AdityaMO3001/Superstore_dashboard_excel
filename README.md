@@ -101,7 +101,6 @@ Retail and e-commerce industries rely heavily on agile analytics to make timely 
 
 These insights directly support **strategic planning, procurement, and sales optimization** across retail chains and stores.
 
-
 ## 💼 Real-World Business Application
 
 ### 1. **Problem: Inventory Overstocking in Low-Performing Regions**
